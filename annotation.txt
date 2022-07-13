@@ -1,0 +1,9 @@
+			<product_images name> <n> <x_1> <y_1> <w_1> <h_1> <b_1> <x_2> <y_2> <w_2> <h_2> <b_2> ... <x_n> <y_n> <w_n> <h_n> <b_n>
+			where
+			<product_images name>   := product images name
+			<n>                  := number of product on the product_images
+			<x_i>                := x-coordinate of the i'th product_images
+			<y_i>                := y-coordinate of the i'th product_images
+			<w_i>                := width of the i'th product_images
+			<h_i>                := height of the i'th product_images
+			<b_i>                := brand of the i'th product_images
